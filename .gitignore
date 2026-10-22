@@ -1,0 +1,6 @@
+# ChromaDB data folder created by food_search.py
+chroma_store/
+
+# Python
+__pycache__/
+.venv/
